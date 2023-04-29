@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+}
+.container {
+    width: 800px;
+    height: 800px;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+.row {
+    width: 800px;
+    height: 100px;
+}
+
+.black {
+    width: 100px;
+    height: 100px;
+    background: #6f4131;
+    float: left;
+}
+
+.white {
+    width: 100px;
+    height: 100px;
+    background: #d3bba1;
+    float: left;
+}
+
+.wp {
+    font-size: 50px;
+    text-align: center;
+    color: white;
+} /* classe per le pedine di colore bianco */
+
+.bp {
+    font-size: 50px;
+    text-align: center;
+} /* classe per le pedine di colore nero */
